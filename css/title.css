@@ -1,0 +1,19 @@
+#title {
+  height: calc(100% - 80px);
+  background-color: #f3f3f3;
+}
+
+#title div {
+  height: calc(100% - 35px);
+  background-image: url(img/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 40px;
+  border-radius: 10px;
+}
+
+#title div h2{
+  text-align: center;
+  color: #fff;
+}
